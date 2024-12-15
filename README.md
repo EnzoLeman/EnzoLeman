@@ -7,17 +7,17 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enzoleman&theme=onestar&column=3&margin-w=10&margin-h=10" alt="trophies" width="500"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=enzoleman&theme=gruvbox&column=3&margin-w=15&margin-h=15&rank=SSS,S,A" alt="trophies" width="600"/>
   </a>
 </p>
 
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Inventory System](https://github.com/EnzoLeman/Inventory-Sytem)
-- 🌱 I’m currently learning **Springboot, Java, and Flutter**
+- 🌱 I’m learning **Springboot, Java, and Flutter**
 - 👯 I’m looking to collaborate on [Bank Account System](https://github.com/EnzoLeman/Bank-Account-System)
-- 🤝 I’m looking for help with [Stack Operation System](https://github.com/EnzoLeman/stack-operation)
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/EnzoLeman)
+- 🤝 I’m seeking help with [Stack Operation System](https://github.com/EnzoLeman/stack-operation)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/EnzoLeman)
 - 📝 I regularly write articles on [Instagram](https://www.instagram.com/enzo_leman10/)
 - 💬 Ask me about **Java, C++, and Python**
 - 📫 Reach me at **ezekielaugustino@gmail.com**
@@ -81,4 +81,4 @@
 
 ---
 
-Enjoy exploring my profile! Feel free to reach out to me for collaborations, questions, or just to connect. 🙌
+Enjoy exploring my profile! Feel free to reach out for collaborations, questions, or just to connect. 🙌
