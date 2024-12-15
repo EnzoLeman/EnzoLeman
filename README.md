@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enzoleman&theme=gruvbox&column=3&margin-w=15&margin-h=15&rank=SSS,S,A" alt="trophies" width="600"/>
+  <a href="https://github.com/enzoleman">
+    <img src="https://github-profile-trophy.vercel.app/?username=enzoleman&theme=onestar&column=3&margin-w=10&margin-h=10" alt="trophies" width="500"/>
   </a>
 </p>
-
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Inventory System](https://github.com/EnzoLeman/Inventory-Sytem)
