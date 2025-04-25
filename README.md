@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on [Inventory System](https://github.com/EnzoLeman/Inventory-Sytem)
 - 🌱 I’m learning **Springboot, Java, and Flutter**
 - 👯 I’m looking to collaborate on [Bank Account System](https://github.com/EnzoLeman/Bank-Account-System)
-- 🤝 I’m seeking help with [Stack Operation System](https://github.com/EnzoLeman/stack-operation)
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/EnzoLeman)
 - 📝 I regularly write articles on [Instagram](https://www.instagram.com/enzo_leman10/)
 - 💬 Ask me about **Java, C++, and Python**
